@@ -1,0 +1,30 @@
+/* CreateEmployee.css */
+
+.custom-form {
+    background-color: #f9f9f9; /* Set background color */
+    padding: 20px; /* Add padding */
+    border-radius: 10px; /* Add border radius */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add box shadow */
+}
+
+.custom-form label {
+    font-weight: bold; /* Set font weight for labels */
+}
+
+.custom-form .form-control {
+    border-color: #ccc; /* Set border color for form controls */
+}
+
+.custom-form .custom-button {
+    background-color: #007bff; /* Set button background color */
+    border-color: #007bff; /* Set button border color */
+}
+
+.custom-form .custom-button:hover {
+    background-color: #0056b3; /* Set button hover background color */
+    border-color: #0056b3; /* Set button hover border color */
+}
+
+.custom-form .custom-button:focus {
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5); /* Add focus effect */
+}
